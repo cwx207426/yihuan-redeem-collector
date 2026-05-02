@@ -1,0 +1,110 @@
+{
+  "codes": [
+    {
+      "code": "YHNOWTOENJOY",
+      "rewards": "环石×100、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "公测前瞻直播",
+      "expires": "2026-05-07 23:59",
+      "type": "限时",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHNANALLYGO",
+      "rewards": "环石×100、资深猎人攻略×5、无彩染剂×5、甲硬币×6000",
+      "source": "公测前瞻直播",
+      "expires": "2026-05-07 23:59",
+      "type": "限时",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHOB0423",
+      "rewards": "环石×100、特级猎人攻略×2、混沌染剂×2、甲硬币×12000",
+      "source": "公测前瞻直播",
+      "expires": "2026-05-07 23:59",
+      "type": "限时",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHBILIBILI0423",
+      "rewards": "头像框「电力满分」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "B站专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHTAPTAP0423",
+      "rewards": "头像框「发现未来」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "TapTap专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHDOUYIN0423",
+      "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "抖音专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHHAOYOU0423",
+      "rewards": "头像框「爆米花猎手」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "好游快爆专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YHHONGMENG0423",
+      "rewards": "头像框「星河」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "鸿蒙专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YIHUAN0423",
+      "rewards": "环石×50、新锐猎人攻略×5、淡色染剂×5",
+      "source": "公测福利",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "YH0423GIFT",
+      "rewards": "环石×50、井小屑×5、方斯×2500",
+      "source": "公测福利",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    },
+    {
+      "code": "MIGUKUAIYOU0423",
+      "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "咪咕快游专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "active",
+      "found_date": "2026-04-23"
+    }
+  ],
+  "last_update": "2026-05-02T20:58:00",
+  "update_sources": [
+    "https://www.taptap.cn/moment/796436572193949454",
+    "https://gl.ali213.net/html/2026-4/1766087.html",
+    "https://www.gamersky.com/handbook/202604/2130594.shtml",
+    "https://news.17173.com/content/04242026/003015097.shtml"
+  ]
+}
