@@ -1,134 +1,220 @@
 {
-  "codes": [
-    {
-      "code": "YHNOWTOENJOY",
-      "rewards": "环石×100、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "公测前瞻直播",
-      "expires": "2026-05-07 23:59",
-      "type": "限时",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
+  "games": {
+    "yihuan": {
+      "name": "异环",
+      "name_en": "Neverness to Everness",
+      "icon": "🎮",
+      "redeem_hint": "游戏内菜单 → 更多 → 兑换码输入",
+      "codes": [
+        {
+          "code": "YHNOWTOENJOY",
+          "rewards": "环石×100、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "公测前瞻直播",
+          "expires": "2026-05-07 23:59",
+          "type": "限时",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效，5/7截止!"
+        },
+        {
+          "code": "YHNANALLYGO",
+          "rewards": "环石×100、资深猎人攻略×5、无彩染剂×5、甲硬币×6000",
+          "source": "公测前瞻直播",
+          "expires": "2026-05-07 23:59",
+          "type": "限时",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效，5/7截止!"
+        },
+        {
+          "code": "YHOB0423",
+          "rewards": "环石×100、特级猎人攻略×2、混沌染剂×2、甲硬币×12000",
+          "source": "公测前瞻直播",
+          "expires": "2026-05-07 23:59",
+          "type": "限时",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效，5/7截止!"
+        },
+        {
+          "code": "YHBILIBILI0423",
+          "rewards": "头像框「电力满分」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "B站专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YHTAPTAP0423",
+          "rewards": "头像框「发现未来」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "TapTap专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YHDOUYIN0423",
+          "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "抖音专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YHHAOYOU0423",
+          "rewards": "头像框「爆米花猎手」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "好游快爆专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YIHUAN0423",
+          "rewards": "环石×50、新锐猎人攻略×5、淡色染剂×5",
+          "source": "公测福利",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YH0423GIFT",
+          "rewards": "环石×50、井小屑×5、方斯×2500",
+          "source": "公测福利",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": true,
+          "found_date": "2026-04-23",
+          "note": "5月3日亲测有效"
+        },
+        {
+          "code": "YHHONGMENG0423",
+          "rewards": "头像框「星河」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "鸿蒙专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "invalid",
+          "verified": false,
+          "found_date": "2026-04-23",
+          "note": "多人反馈无效，5/3社区列表已移除"
+        },
+        {
+          "code": "MIGUKUAIYOU0423",
+          "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+          "source": "咪咕快游专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "invalid",
+          "verified": false,
+          "found_date": "2026-04-23",
+          "note": "多人反馈无效，5/3社区列表已移除"
+        }
+      ],
+      "last_update": "2026-05-03T16:00:00",
+      "update_sources": [
+        "https://www.taptap.cn/moment/799665250738635968",
+        "https://gl.ali213.net/html/2026-4/1766087.html",
+        "https://www.gamersky.com/handbook/202604/2130594.shtml",
+        "https://www.bilibili.com/video/BV14t9eB6E7C/"
+      ]
     },
-    {
-      "code": "YHNANALLYGO",
-      "rewards": "环石×100、资深猎人攻略×5、无彩染剂×5、甲硬币×6000",
-      "source": "公测前瞻直播",
-      "expires": "2026-05-07 23:59",
-      "type": "限时",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHOB0423",
-      "rewards": "环石×100、特级猎人攻略×2、混沌染剂×2、甲硬币×12000",
-      "source": "公测前瞻直播",
-      "expires": "2026-05-07 23:59",
-      "type": "限时",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHBILIBILI0423",
-      "rewards": "头像框「电力满分」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "B站专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHTAPTAP0423",
-      "rewards": "头像框「发现未来」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "TapTap专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHDOUYIN0423",
-      "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "抖音专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHHAOYOU0423",
-      "rewards": "头像框「爆米花猎手」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "好游快爆专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YIHUAN0423",
-      "rewards": "环石×50、新锐猎人攻略×5、淡色染剂×5",
-      "source": "公测福利",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YH0423GIFT",
-      "rewards": "环石×50、井小屑×5、方斯×2500",
-      "source": "公测福利",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "verified": true,
-      "found_date": "2026-04-23",
-      "note": "5月3日亲测有效"
-    },
-    {
-      "code": "YHHONGMENG0423",
-      "rewards": "头像框「星河」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "鸿蒙专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "invalid",
-      "verified": false,
-      "found_date": "2026-04-23",
-      "note": "多人反馈无效，5/3社区列表已移除"
-    },
-    {
-      "code": "MIGUKUAIYOU0423",
-      "rewards": "新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "咪咕快游专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "invalid",
-      "verified": false,
-      "found_date": "2026-04-23",
-      "note": "多人反馈无效，5/3社区列表已移除"
+    "zmxyol": {
+      "name": "造梦西游OL",
+      "name_en": "Zao Meng Xi You OL",
+      "icon": "🐵",
+      "redeem_hint": "游戏内活动 → 礼包兑换 → 输入兑换码",
+      "codes": [
+        {
+          "code": "ZMXY2024",
+          "rewards": "元宝×200、强化石×10、金币×50000",
+          "source": "2024新年活动",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2024-01-01",
+          "note": "来源网络，需自行验证"
+        },
+        {
+          "code": "ZMXY888",
+          "rewards": "元宝×300、高级强化石×5、神宠蛋×1",
+          "source": "公众号关注礼包",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2024-06-01",
+          "note": "来源网络，需自行验证"
+        },
+        {
+          "code": "ZMXY666",
+          "rewards": "元宝×100、金币×30000、强化石×5",
+          "source": "新手礼包",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2024-01-01",
+          "note": "来源网络，需自行验证"
+        },
+        {
+          "code": "VIP888",
+          "rewards": "VIP体验卡×3、元宝×150、金币×20000",
+          "source": "VIP福利",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2024-03-01",
+          "note": "来源网络，需自行验证"
+        },
+        {
+          "code": "ZMXY2025",
+          "rewards": "元宝×300、神宠碎片×10、金币×80000",
+          "source": "2025新春礼包",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2025-01-28",
+          "note": "来源网络，需自行验证"
+        },
+        {
+          "code": "SVIP666",
+          "rewards": "SVIP体验卡×1、高级强化石×10、元宝×500",
+          "source": "SVIP专属",
+          "expires": "长期有效",
+          "type": "永久",
+          "status": "active",
+          "verified": false,
+          "found_date": "2024-06-01",
+          "note": "来源网络，需自行验证"
+        }
+      ],
+      "last_update": "2026-05-03T16:00:00",
+      "update_sources": [
+        "https://zmxy.4399.com/",
+        "https://www.taptap.cn/app/3478"
+      ]
     }
-  ],
-  "last_update": "2026-05-03T16:00:00",
-  "update_sources": [
-    "https://www.taptap.cn/moment/799665250738635968",
-    "https://www.taptap.cn/moment/796436572193949454",
-    "https://gl.ali213.net/html/2026-4/1766087.html",
-    "https://www.gamersky.com/handbook/202604/2130594.shtml",
-    "https://news.17173.com/content/04242026/003015097.shtml",
-    "https://www.bilibili.com/video/BV14t9eB6E7C/"
-  ]
+  },
+  "last_update": "2026-05-03T16:15:00"
 }
