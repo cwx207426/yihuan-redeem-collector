@@ -7,7 +7,9 @@
       "expires": "2026-05-07 23:59",
       "type": "限时",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHNANALLYGO",
@@ -16,7 +18,9 @@
       "expires": "2026-05-07 23:59",
       "type": "限时",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHOB0423",
@@ -25,7 +29,9 @@
       "expires": "2026-05-07 23:59",
       "type": "限时",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHBILIBILI0423",
@@ -34,7 +40,9 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHTAPTAP0423",
@@ -43,7 +51,9 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHDOUYIN0423",
@@ -52,7 +62,9 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YHHAOYOU0423",
@@ -61,16 +73,9 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
-    },
-    {
-      "code": "YHHONGMENG0423",
-      "rewards": "头像框「星河」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
-      "source": "鸿蒙专属",
-      "expires": "长期有效",
-      "type": "永久",
-      "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YIHUAN0423",
@@ -79,7 +84,9 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
     },
     {
       "code": "YH0423GIFT",
@@ -88,7 +95,20 @@
       "expires": "长期有效",
       "type": "永久",
       "status": "active",
-      "found_date": "2026-04-23"
+      "verified": true,
+      "found_date": "2026-04-23",
+      "note": "5月3日亲测有效"
+    },
+    {
+      "code": "YHHONGMENG0423",
+      "rewards": "头像框「星河」×1、新锐猎人攻略×5、淡色染剂×5、甲硬币×4000",
+      "source": "鸿蒙专属",
+      "expires": "长期有效",
+      "type": "永久",
+      "status": "invalid",
+      "verified": false,
+      "found_date": "2026-04-23",
+      "note": "多人反馈无效，5/3社区列表已移除"
     },
     {
       "code": "MIGUKUAIYOU0423",
@@ -96,15 +116,19 @@
       "source": "咪咕快游专属",
       "expires": "长期有效",
       "type": "永久",
-      "status": "active",
-      "found_date": "2026-04-23"
+      "status": "invalid",
+      "verified": false,
+      "found_date": "2026-04-23",
+      "note": "多人反馈无效，5/3社区列表已移除"
     }
   ],
-  "last_update": "2026-05-02T20:58:00",
+  "last_update": "2026-05-03T16:00:00",
   "update_sources": [
+    "https://www.taptap.cn/moment/799665250738635968",
     "https://www.taptap.cn/moment/796436572193949454",
     "https://gl.ali213.net/html/2026-4/1766087.html",
     "https://www.gamersky.com/handbook/202604/2130594.shtml",
-    "https://news.17173.com/content/04242026/003015097.shtml"
+    "https://news.17173.com/content/04242026/003015097.shtml",
+    "https://www.bilibili.com/video/BV14t9eB6E7C/"
   ]
 }
